@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://big7782.github.io/sitemap.xml
